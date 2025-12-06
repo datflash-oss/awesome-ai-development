@@ -1,0 +1,54 @@
+{
+  "name": "@supernal/awesome-ai-development",
+  "version": "1.0.1",
+  "description": "A curated list of resources for AI-powered software development, compliance, and governance",
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "ai",
+    "artificial-intelligence",
+    "development",
+    "compliance",
+    "governance",
+    "grc",
+    "iso-27001",
+    "soc2",
+    "aidc",
+    "ai-driven-development",
+    "devtools",
+    "supernal-coding"
+  ],
+  "homepage": "https://coding.supernal.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supernal-ai/supernal-coding.git",
+    "directory": "packages/awesome-ai-development"
+  },
+  "bugs": {
+    "url": "https://github.com/supernal-ai/supernal-coding/issues"
+  },
+  "license": "CC0-1.0",
+  "author": {
+    "name": "Supernal AI",
+    "url": "https://supernal.ai"
+  },
+  "scripts": {
+    "lint": "awesome-lint",
+    "test": "awesome-lint",
+    "link-check": "sc research link-check .",
+    "link-check:verbose": "sc research link-check . --verbose",
+    "link-check:ci": "sc research link-check . --timeout 15000 --concurrency 5"
+  },
+  "devDependencies": {
+    "awesome-lint": "^0.18.0"
+  },
+  "peerDependencies": {
+    "supernal-coding": ">=1.0.0"
+  },
+  "peerDependenciesMeta": {
+    "supernal-coding": {
+      "optional": true
+    }
+  }
+}
+
