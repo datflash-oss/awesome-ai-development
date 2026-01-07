@@ -6,7 +6,7 @@ A curated list of resources for AI-powered software development, compliance, and
 
 This list serves **developers using AI tools**, **compliance officers**, **engineering leaders**, and **organizations** navigating the intersection of AI innovation and regulatory requirements.
 
-**Maintained by:** [Supernal AI](https://supernal.ai) | **Docs:** [coding.supernal.ai](https://coding.supernal.ai) | **Source:** [GitHub](https://github.com/supernal-ai/supernal-coding) | **Blog:** [Introduction Post](https://coding.supernal.ai/blog/awesome-ai-development-research)
+**Maintained by:** [Supernal Intelligence](https://supernal.ai) | **Docs:** [coding.supernal.ai](https://coding.supernal.ai) | **Source:** [GitHub](https://github.com/supernal-ai/supernal-coding) | **Blog:** [Introduction Post](https://coding.supernal.ai/blog/awesome-ai-development-research)
 
 ## Contents
 
@@ -393,7 +393,7 @@ jobs:
 
 ## About
 
-This research is curated and maintained by **[Supernal AI](https://supernal.ai)** as part of the open-source **[Supernal Coding](https://coding.supernal.ai)** project.
+This research is curated and maintained by **[Supernal Intelligence](https://supernal.ai)** as part of the open-source **[Supernal Coding](https://coding.supernal.ai)** project.
 
 Supernal Coding provides AI-powered development workflow automation, including:
 - Requirements management with compliance traceability
