@@ -397,7 +397,7 @@ This research is curated and maintained by **[Supernal Intelligence](https://sup
 
 Supernal Coding provides AI-powered development workflow automation, including:
 - Requirements management with compliance traceability
-- Git workflow automation (`sc git-smart`)
+- Git workflow automation (`sc git smart`)
 - Documentation validation and link checking (`sc research`)
 - Feature-based commit tracking
 
