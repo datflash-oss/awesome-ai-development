@@ -46,6 +46,7 @@ The AI-Driven Development Life Cycle (AI-DLC) represents a paradigm shift from t
 - [AWS AI-Driven Development Life Cycle](https://aws.amazon.com/blogs/devops/ai-driven-development-life-cycle/) - Comprehensive framework for AI-centric software development with human oversight and dynamic team collaboration.
 - [GitHub Copilot Methodology](https://github.blog/engineering/) - Best practices for integrating AI pair programming into development workflows.
 - [Anthropic's Constitutional AI](https://www.anthropic.com/research) - Approach to developing AI systems with built-in safety and alignment considerations.
+- [DatFlash](https://github.com/datflash-oss/dataset-transaction-tracker) – Tracks publicly reported dataset transactions, releases, and changes relevant to AI governance and data evaluation.
 
 ### Key Principles
 
